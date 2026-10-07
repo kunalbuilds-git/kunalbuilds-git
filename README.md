@@ -1,77 +1,126 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# Hey, I'm Kunal.
-
-### Building from zero to something.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=First-year+CSE+student;Backend+developer+in+progress;Java+%7C+Spring+Boot+%7C+Git;Open+Source+%7C+Projects+%7C+Learning;Building+in+public" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KUNAL&fontAlign=50&fontAlignY=40&fontSize=70&desc=From%20zero%20to%20something.&descAlign=50&descAlignY=62&animation=fadeIn&color=0:0d1117,100:161b22&fontColor=58a6ff" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=First-year+CSE+student;Backend+developer+in+progress;Java+%7C+Spring+Boot+%7C+Git;Open+Source+%7C+Projects+%7C+DSA;Learning+by+building+in+public" alt="Typing animation"/>
+
+<br><br>
+
 <a href="https://github.com/kunalbuilds-git">
-  <img src="https://img.shields.io/github/followers/kunalbuilds-git?label=Followers&style=for-the-badge" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/GitHub-kunalbuilds--git-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/kunalbuilds-git?tab=repositories">
-  <img src="https://img.shields.io/github/stars/kunalbuilds-git?affiliations=OWNER&style=for-the-badge&label=Total%20Stars" alt="GitHub stars"/>
+&nbsp;
+<a href="https://x.com/kunalbuilds_x">
+<img src="https://img.shields.io/badge/X-@kunalbuilds__x-161b22?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kunalbuilds-git&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About me
-
-I'm **Kunal**, a first-year CSE student building my way into software engineering.
-
-I'm currently focused on understanding how software actually works — not just collecting tutorials or certificates.
+## `whoami`
 
 ```text
-Learning → Building → Breaking → Debugging → Understanding → Repeating
+Kunal
+└── First-year CSE student
+    ├── Learning backend development
+    ├── Building real projects
+    ├── Exploring open source
+    ├── Strengthening DSA fundamentals
+    └── Sharing the journey in public
 ```
 
-My current focus:
+I'm building my way into software engineering by **learning → building → breaking → debugging → understanding → repeating**.
 
-* Backend development
-* Java & Spring Boot
-* Data Structures & Algorithms
-* Git & GitHub
-* Open source
-* Building real projects
-* Learning by shipping
-
-I'm documenting the journey publicly through my projects, commits, pull requests and open-source contributions.
+I'm less interested in collecting certificates and more interested in being able to open an unfamiliar codebase and actually contribute to it.
 
 ---
 
-## What I'm building
+<div align="center">
 
-### DevelopersHub
+## `CURRENT MISSION`
 
-A backend-focused platform for discovering and managing opportunities.
+### Build things that force me to learn.
 
-**Stack:** Java · Spring Boot · JWT · Maven
+</div>
 
-Currently working on:
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
-* Authentication & authorization
+### BUILD
+
+Backend projects
+APIs
+Authentication
+Real features
+
+</td>
+
+<td width="33%" align="center">
+
+### LEARN
+
+Java
+DSA
+Spring Boot
+CS fundamentals
+
+</td>
+
+<td width="33%" align="center">
+
+### CONTRIBUTE
+
+Git
+Open Source
+Pull Requests
+Codebases
+
+</td>
+</tr>
+</table>
+
+---
+
+## `projects`
+
+### 🔭 DevelopersHub
+
+> A backend-focused platform for discovering and managing opportunities.
+
+**Currently working on**
+
+* JWT authentication
 * Opportunity CRUD
 * Bookmarks
 * Saved opportunities
+* Sorting & filtering
+* Validation
 * Testing
-* CI/CD
-* API design
+* CI
 
-[View repository →](https://github.com/kunalbuilds-git/DevelopersHub)
+**Stack**
+
+`Java` `Spring Boot` `JWT` `Maven`
+
+<a href="https://github.com/kunalbuilds-git/DevelopersHub">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### Bank Account System
+### 🏦 Bank Account System
 
-A Java console application that started as a learning project and evolved into a proper exercise in software structure.
+> A Java console application that evolved from a beginner project into a lesson in software structure.
 
-It includes:
+**Features**
 
 * Account creation & login
 * PIN authentication
@@ -82,121 +131,161 @@ It includes:
 * File persistence
 * Account management
 
-The project was also refactored from a large class into multiple focused components to practice **separation of responsibilities**.
+One of the biggest lessons from this project was refactoring a large class into smaller components with clearer responsibilities.
 
-[View repository →](https://github.com/kunalbuilds-git/bank-account-system)
-
----
-
-## Tech I'm working with
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,linux,vscode,html,css&perline=9" />
-
-</div>
-
-### Currently learning
-
-```text
-Java
- └── DSA
-      └── Problem Solving
-           └── Backend Development
-                └── Spring Boot
-                     └── APIs
-                          └── Databases
-                               └── System Design
-```
-
-I'm more interested in **understanding fundamentals** than rushing through a technology checklist.
-
----
-
-## Open Source
-
-I'm actively learning how to contribute to real-world open-source projects.
-
-So far I've been working on:
-
-* Understanding existing codebases
-* Creating branches
-* Making pull requests
-* Reviewing CI failures
-* Fixing issues
-* Working with Git beyond basic commits
-
-### My goal
-
-**Become someone who can enter an unfamiliar codebase and contribute meaningfully.**
-
----
-
-## GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kunalbuilds-git&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Kunal's GitHub stats" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalbuilds-git&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## A few things I believe
-
-> Don't just learn how to use the tool.
-> Understand what the tool is doing.
-
-> Build things that force you to learn.
-
-> Your first version is supposed to be bad.
-
-> Consistency beats waiting for motivation.
-
----
-
-## Currently
-
-```text
-🎓 First-year CSE student
-
-🔨 Building backend projects
-
-☕ Learning Java + Spring Boot
-
-🌐 Exploring open source
-
-🧠 Strengthening DSA & CS fundamentals
-
-🚀 Working towards bigger projects and contributions
-```
-
----
-
-## Let's connect
-
-<div align="center">
-
-<a href="https://github.com/kunalbuilds-git">
-  <img src="https://img.shields.io/badge/GitHub-kunalbuilds--git-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/kunalbuilds-git/bank-account-system">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://x.com/kunalbuilds_x">
-  <img src="https://img.shields.io/badge/X-@kunalbuilds__x-000000?style=for-the-badge&logo=x" />
-</a>
+---
+
+### 🌦️ Weather & City Watchlist
+
+> A collaborative backend project for weather data and city watchlists.
+
+**Stack**
+
+`Java` `Spring Boot` `REST API` `Maven`
+
+Built while learning how backend services interact with a separate frontend.
+
+---
+
+## `tech stack`
+
+<div align="center">
+
+### Languages & Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven&perline=3"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=4"/>
+
+### Currently exploring
+
+<img src="https://skillicons.dev/icons?i=html,css&perline=2"/>
 
 </div>
 
 <br>
 
+```text
+Java
+ │
+ ├── DSA
+ │    └── Problem solving
+ │
+ └── Spring Boot
+      ├── REST APIs
+      ├── Authentication
+      ├── Testing
+      └── Backend architecture
+```
+
+---
+
+## `open source`
+
+I'm learning open source the practical way.
+
+Not just reading about Git.
+
+Actually using it.
+
+```text
+Find an issue
+     ↓
+Understand the codebase
+     ↓
+Create a branch
+     ↓
+Make the change
+     ↓
+Run the tests
+     ↓
+Open a PR
+     ↓
+Handle feedback
+     ↓
+Learn something new
+```
+
+My current goal:
+
+> **Become someone who can enter an unfamiliar repository and contribute meaningfully.**
+
+---
+
+## `learning philosophy`
+
 <div align="center">
 
-### From zero to something.
+### Don't just learn the tool.
 
-**Thanks for stopping by.**
+### Understand what the tool is doing.
+
+<br>
+
+`Tutorial` → `Experiment` → `Project` → `Problem` → `Understanding`
+
+</div>
+
+---
+
+## `GitHub activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kunalbuilds-git&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalbuilds-git&layout=compact&hide_border=true&theme=github_dark" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=kunalbuilds-git&theme=github-dark-blue&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## `currently`
+
+```text
+🎓  First-year CSE
+🔨  Building backend projects
+☕  Learning Java + Spring Boot
+🧩  Practicing DSA
+🌐  Exploring open source
+📦  Shipping instead of waiting for perfect
+```
+
+---
+
+<div align="center">
+
+## `let's connect`
+
+If you're also learning, building, contributing to open source,
+or figuring out what to learn next —
+
+**say hi.**
+
+<br>
+
+<a href="https://github.com/kunalbuilds-git">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/kunalbuilds_x">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br><br>
+
+### `FROM ZERO TO SOMETHING.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,100:0d1117" width="100%"/>
 
 </div>
