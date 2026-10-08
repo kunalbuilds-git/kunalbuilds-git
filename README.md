@@ -1,7 +1,22 @@
 <div align="center">
 
 <!-- Matrix Cyber Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=KUNAL&fontAlign=50&fontAlignY=36&fontSize=85&desc=%5B%2B%5D%20SYSTEM_OVERRIDE%20%3A%3A%20BACKEND_ENGINEER&descAlign=50&descAlignY=62&animation=twinkle&color=0:0d1117,50:002b11,100:0d1117&fontColor=00FF66" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KUNAL%20RAGHUVANSHI&fontAlign=50&fontAlignY=38&fontSize=55&desc=%5B%2B%5D%20SYSTEM_OVERRIDE%20%3A%3A%20BACKEND_ENGINEER&descAlign=50&descAlignY=68&animation=twinkle&color=0:0d1117,50:002b11,100:0d1117&fontColor=00FF66" width="100%"/>
+
+<br>
+
+<!-- ASCII Name Banner -->
+<pre>
+ __  __                            ___        ____                    __                                                __             
+/\ \/\ \                          /\_ \      /\  _`\                 /\ \                                              /\ \       __   
+\ \ \/'/'  __  __    ___     __   \//\ \     \ \ \L\ \    __     __  \ \ \___   __  __  __  __     __     ___     ____  \ \ \___  /\_\  
+ \ \ , <  /\ \/\ \ /' _ `\  /'__`\   \ \ \     \ \ ,  /  /'__`\  /'_ `\ \  _ `\/\ \/\ \/\ \/\ \  /'__`\  /' _ `\  /',__\  \ \  _ `\/\ \ 
+  \ \ \\`\\ \ \_\ \/\ \/\ \/\ \L\.\_  _\ \_     \ \ \\ \ /\ \L\.\_/\ \L\ \ \ \ \ \ \ \_\ \ \ \_/ |/\ \L\.\_/\ \/\ \/\__, `\  \ \ \ \ \ \ \
+   \ \_\ \_\ \____/\ \_\ \_\ \__/.\_\/\____\     \ \_\ \_\ \__/.\_\ \____ \ \_\ \_\ \____/\ \___/ \ \__/.\_\ \_\ \_\/\____/   \ \_\ \_\ \_\
+    \/_/\/_/\/___/  \/_/\/_/\/__/\/_/\/____/      \/_/\/ /\/__/\/_/\/___L\ \/_/\/_/\/___/  \/__/   \/__/\/_/\/_/\/_/\/___/     \/_/\/_/\/_/
+                                                                   /\____/                                                                 
+                                                                   \_/__/                                                                  
+</pre>
 
 <br>
 
@@ -40,7 +55,7 @@
 ```yaml
 kunal@cyberdeck:~$ whoami --verbose
 -------------------------------------------------------------------------------------
-[+] ALIAS       : Kunal
+[+] ALIAS        : Kunal Raghuvanshi
 [+] STATUS      : First-Year CSE Student & Backend Systems Engineer
 [+] TARGET      : High-throughput Java & Spring Boot Architecture
 [+] MINDSET     : "Learn -> Build -> Break -> Debug -> Optimize -> Repeat"
@@ -66,28 +81,28 @@ kunal@cyberdeck:~$ whoami --verbose
 <td width="33%" valign="top">
 
 ### 🔨 01. EXECUTE (BUILD)
-* High-throughput REST APIs
-* Stateless JWT Authentication
-* File Persistence & Storage Systems
-* Production-Ready Micro-features
+- High-throughput REST APIs
+- Stateless JWT Authentication
+- File Persistence & Storage Systems
+- Production-Ready Micro-features
 
 </td>
 <td width="33%" valign="top">
 
 ### 🧬 02. INFILTRATE (LEARN)
-* Java Core & Memory Internals
-* Data Structures & Algorithms
-* Spring Boot Bean Lifecycle
-* SOLID & Clean Architecture
+- Java Core & Memory Internals
+- Data Structures & Algorithms
+- Spring Boot Bean Lifecycle
+- SOLID & Clean Architecture
 
 </td>
 <td width="33%" valign="top">
 
 ### 🚀 03. INTERCEPT (CONTRIBUTE)
-* Open Source Repositories
-* Git Branching & PR Workflows
-* Peer Code Audits & Reviews
-* Resolving Real GitHub Issues
+- Open Source Repositories
+- Git Branching & PR Workflows
+- Peer Code Audits & Reviews
+- Resolving Real GitHub Issues
 
 </td>
 </tr>
@@ -121,13 +136,13 @@ kunal@cyberdeck:~$ whoami --verbose
 
 ```text
 [SYSTEM_MAP] :: JAVA BACKEND VECTOR
- ── ☕ Core Java Mechanics (OOP, Memory Allocation, I/O Streams)
+── ☕ Core Java Mechanics (OOP, Memory Allocation, I/O Streams)
      ├── 🧩 Data Structures & Algorithms (Optimization & Complexity)
      └── 🍃 Spring Boot Ecosystem
-          ├── 🌐 REST API Protocols & Schemas
-          ├── 🔒 JWT Authentication & Security Headers
-          ├── 🧪 Unit Testing & Defensive Validation
-          └── 🏗️ Microservice System Architecture
+         ├── 🌐 REST API Protocols & Schemas
+         ├── 🔒 JWT Authentication & Security Headers
+         ├── 🧪 Unit Testing & Defensive Validation
+         └── 🏗️ Microservice System Architecture
 ```
 
 <!-- Animated Neon Line Divider -->
@@ -274,11 +289,3 @@ If you are building systems, auditing code, or contributing to open source — *
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkle&color=0:0d1117,100:002b11" width="100%"/>
 
 </div>
-```
-
-### What makes this version stand out:
-1. **Matrix & Cyberpunk Color Palette:** Custom `#00FF66` neon green against dark obsidian backgrounds across badges, headers, activity graphs, and streak cards.
-2. **Hacker Boy Coding GIF:** Embedded right under the main header banner with a styled neon green border.
-3. **Terminal UNIX Shell Prompts:** Terminal-style section titles (`[0x01] // ROOT_ACCESS`, `kunal@cyberdeck:~$ whoami --verbose`, `./execute_contributions.sh`).
-4. **Contribution Snake Animation:** Live contribution grid snake that "eats" your GitHub activity squares.
-5. **Dynamic Activity Waveform:** Real-time green activity graph (`theme=matrix`) at the bottom.
