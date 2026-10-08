@@ -1,33 +1,28 @@
 <div align="center">
 
-<!-- Matrix Cyber Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KUNAL%20RAGHUVANSHI&fontAlign=50&fontAlignY=38&fontSize=55&desc=%5B%2B%5D%20SYSTEM_OVERRIDE%20%3A%3A%20BACKEND_ENGINEER&descAlign=50&descAlignY=68&animation=twinkle&color=0:0d1117,50:002b11,100:0d1117&fontColor=00FF66" width="100%"/>
-
-<br>
-
-<!-- ASCII Name Banner -->
-<pre>
- __  __                            ___        ____                    __                                                __             
-/\ \/\ \                          /\_ \      /\  _`\                 /\ \                                              /\ \       __   
-\ \ \/'/'  __  __    ___     __   \//\ \     \ \ \L\ \    __     __  \ \ \___   __  __  __  __     __     ___     ____  \ \ \___  /\_\  
- \ \ , <  /\ \/\ \ /' _ `\  /'__`\   \ \ \     \ \ ,  /  /'__`\  /'_ `\ \  _ `\/\ \/\ \/\ \/\ \  /'__`\  /' _ `\  /',__\  \ \  _ `\/\ \ 
-  \ \ \\`\\ \ \_\ \/\ \/\ \/\ \L\.\_  _\ \_     \ \ \\ \ /\ \L\.\_/\ \L\ \ \ \ \ \ \ \_\ \ \ \_/ |/\ \L\.\_/\ \/\ \/\__, `\  \ \ \ \ \ \ \
-   \ \_\ \_\ \____/\ \_\ \_\ \__/.\_\/\____\     \ \_\ \_\ \__/.\_\ \____ \ \_\ \_\ \____/\ \___/ \ \__/.\_\ \_\ \_\/\____/   \ \_\ \_\ \_\
-    \/_/\/_/\/___/  \/_/\/_/\/__/\/_/\/____/      \/_/\/ /\/__/\/_/\/___L\ \/_/\/_/\/___/  \/__/   \/__/\/_/\/_/\/_/\/___/     \/_/\/_/\/_/
-                                                                   /\____/                                                                 
-                                                                   \_/__/                                                                  
-</pre>
-
-<br>
-
-<!-- Hacker Boy Coding Animation -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="460" alt="Hacker Boy Coding Animation" style="border-radius: 10px; border: 2px solid #00FF66;"/>
+<!-- Header Capsule Banner (Clean System Header without repeating name) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SYSTEM_OVERRIDE%20%3A%3A%20BACKEND_ENGINEER&fontAlign=50&fontAlignY=38&fontSize=42&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20SYSTEMS%20ARCHITECTURE&descAlign=50&descAlignY=64&animation=twinkle&color=0:0d1117,50:002b11,100:0d1117&fontColor=00FF66" width="100%"/>
 
 <br><br>
 
+<!-- Hero Name (ASCII Art - Single Instance of Kunal Raghuvanshi) -->
+<pre align="center">
+<font color="#00FF66">
+  __  __                                 ___       ____                                                       __                  
+ /\ \/\ \                               /\_ \     /\  _`\                                                    /\ \        __       
+ \ \ \/'/'  __  __    ___    __   \//\ \    \ \ \L\ \    __     __\ \ \___   __  __  __  __     __     ___     ____\ \ \___ /\_\  
+  \ \ , &lt;  /\ \/\ \ /' _ `\ /'__`\  \ \ \    \ \ ,  /   /'__`\  /'_ `\ \  _ `\/\ \/\ \/\ \/\ \  /'__`\  /' _ `\  /',__\\ \  _ `\/\ \ 
+   \ \ \\`\\ \ \_\ \/\ \/\ \/\ \L\.\_ \_\ \_   \ \ \\ \ /\ \L\.\_/\ \L\ \ \ \ \ \ \ \_\ \ \ \_/ |/\ \L\.\_/\ \/\ \/\__, `\\ \ \ \ \ \ \
+    \ \_\ \_\ \____/\ \_\ \_\ \__/.\_\/\____\   \ \_\ \_\ \__/.\_\ \____ \ \_\ \_\ \____/\ \___/ \ \__/.\_\ \_\ \_\/\____/ \ \_\ \_\ \_\
+     \/_/\/_/\/___/  \/_/\/_/\/__/\/_/\/____/    \/_/\/ /\/__/\/_/\/___L\ \/_/\/_/\/___/  \/__/   \/__/\/_/\/_/\/_/\/___/  \/_/\/_/\/_/
+                                                                  /\____/                                                             
+                                                                  \_/__/                                                              
+</font>
+</pre>
+
 <!-- Dynamic Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=800&color=00FF66&center=true&vCenter=true&width=750&lines=System.out.println(%22Hello%2C+World!%22)%3B;First-Year+CSE+Student+%7C+Java+%2B+Spring+Boot;Initiating+Backend+Security+Protocols...;Building+In+Public+%7C+Open+Source+Contributor;Break+%E2%86%92+Debug+%E2%86%92+Optimize+%E2%86%92+Master" alt="Matrix Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=00FF66&center=true&vCenter=true&width=750&lines=System.out.println(%22Hello%2C+World!%22)%3B;First-Year+CSE+Student+%7C+Java+%2B+Spring+Boot;Initiating+Backend+Security+Protocols...;Building+In+Public+%7C+Open+Source+Contributor;Break+%E2%86%92+Debug+%E2%86%92+Optimize+%E2%86%92+Master" alt="Matrix Typing SVG" />
 </a>
 
 <br><br>
@@ -55,7 +50,6 @@
 ```yaml
 kunal@cyberdeck:~$ whoami --verbose
 -------------------------------------------------------------------------------------
-[+] ALIAS        : Kunal Raghuvanshi
 [+] STATUS      : First-Year CSE Student & Backend Systems Engineer
 [+] TARGET      : High-throughput Java & Spring Boot Architecture
 [+] MINDSET     : "Learn -> Build -> Break -> Debug -> Optimize -> Repeat"
