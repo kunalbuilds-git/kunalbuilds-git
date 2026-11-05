@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="44" viewBox="0 0 1000 44" role="img" aria-label="Scrolling ticker of my tech stack">
+<defs>
+<style>text{font-family:'Fira Code','JetBrains Mono','Courier New',Consolas,monospace}</style>
+<linearGradient id="fg" x1="0" x2="1"><stop offset="0" stop-color="#000"/><stop offset=".12" stop-color="#fff"/><stop offset=".88" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+<mask id="m"><rect width="1000" height="44" fill="url(#fg)"/></mask>
+</defs>
+<line x1="0" y1="2" x2="1000" y2="2" stroke="#00ff66" stroke-opacity=".3" mask="url(#m)"/>
+<line x1="0" y1="42" x2="1000" y2="42" stroke="#00ff66" stroke-opacity=".3" mask="url(#m)"/>
+<g mask="url(#m)"><g>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1522.2 0" dur="27.6764s" repeatCount="indefinite"/>
+<text x="0" y="28" font-size="16" font-weight="600" textLength="1522.2" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#00ff66">JAVA</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">SPRING BOOT</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">REST APIs</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">JWT</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">SPRING SECURITY</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">MAVEN</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">GIT</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">LINUX</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">DSA</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">OPEN SOURCE</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan></text>
+<text x="1522.2" y="28" font-size="16" font-weight="600" textLength="1522.2" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#00ff66">JAVA</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">SPRING BOOT</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">REST APIs</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">JWT</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">SPRING SECURITY</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">MAVEN</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">GIT</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">LINUX</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">DSA</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan><tspan fill="#00ff66">OPEN SOURCE</tspan><tspan fill="#1f6b3a" xml:space="preserve">  //  </tspan></text>
+</g></g>
+</svg>
