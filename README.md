@@ -186,10 +186,6 @@
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/kunalbuilds-git/kunalbuilds-git/output/snake-matrix.svg">
 </picture>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=kunalbuilds-git&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=9be9b0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5c8a6b" width="80%" alt="GitHub streak stats"/>
-
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
